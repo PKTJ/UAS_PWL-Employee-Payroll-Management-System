@@ -43,6 +43,7 @@ Contoh skema lihat di `gaji_db.sql`.
 - `config.php` : Koneksi database
 ## Developer
 - Arbinand Roffi Ilmi (A12.2023.07051)
+- Fairuz Amru Ghani (A12.2023.07057)
 
 ## Lisensi
 Open source, silakan gunakan dan modifikasi sesuai kebutuhan.
