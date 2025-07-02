@@ -46,6 +46,7 @@ Contoh skema lihat di `gaji_db.sql`.
 - Fairuz Amru Ghani (A12.2023.07057)
 - Aditya Fallah Prabawa (A12.2023.07032)
 - Ajrun Kabir (A12.2023.07023)
+- Fico Aldi Saputro (A12.2023.07058)
 
 ## Lisensi
 Open source, silakan gunakan dan modifikasi sesuai kebutuhan.
