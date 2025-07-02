@@ -41,6 +41,8 @@ Contoh skema lihat di `gaji_db.sql`.
 - `models/export_pdf.php` : Ekspor PDF
 - `login.php`, `register.php`, `logout.php` : Autentikasi
 - `config.php` : Koneksi database
+## Developer
+- Arbinand Roffi Ilmi (A12.2023.07051)
 
 ## Lisensi
 Open source, silakan gunakan dan modifikasi sesuai kebutuhan.
